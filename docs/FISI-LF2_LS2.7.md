@@ -12,7 +12,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| Rahmenlehrplan für Kaufleute für Digitalisierungsmanagement & Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 11 | LS 2.7: Netzwerkspeicher dimensionieren | 12 Unterrichtsstunden |
+| Rahmenlehrplan für Fachinformatiker/in in der Fassung vom 13.12.2019, S. 13 | LS 2.7: Netzwerkspeicher dimensionieren | 18 Unterrichtsstunden |
 
 ### Handlungssituation
 
