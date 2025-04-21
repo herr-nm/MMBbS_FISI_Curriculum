@@ -12,7 +12,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| Rahmenlehrplan für Fachinformatiker/in in der Fassung vom 13.12.2019, S. 13 | LS 2.6: IT-Systeme unterscheiden | 9 Unterrichtsstunden |
+| Rahmenlehrplan für Fachinformatiker/in in der Fassung vom 13.12.2019, S. 13 | LS 2.6: IT-Systeme unterscheiden | 12 Unterrichtsstunden |
 
 ### Handlungssituation
 
@@ -68,4 +68,4 @@ Für den langjährigen Kunden soll eine neu zusammengestellte Abteilung mit pass
 
 - Lernfeld 2 (wirtschaftlicher Anteil)
 
-!!!info "Lizenz<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Das FISI Curriculum</span> vom <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/MMBbS_FISI_Curriculum/" property="cc:attributionName" rel="cc:attributionURL">Team FISI der MMBbS</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de."
+!!!info "Lizenz<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Das FISI Curriculum</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/MMBbS_FISI_Curriculum/" property="cc:attributionName" rel="cc:attributionURL">Herr NM</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de."
